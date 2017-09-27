@@ -1,2 +1,5 @@
 # hello-world
-Repository: 1
+
+Hello There!
+
+My name is Eraj and I am here to learn Python.
